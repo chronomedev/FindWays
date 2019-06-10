@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="aksen_findways">#9FF6D3</color>
+    <color name="container_input_aksen">#8CE6B3</color>
+    <color name="inputedttext_color">#63CCA1</color>
+</resources>
